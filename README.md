@@ -3,7 +3,7 @@ This project is part of the ALX Frontend course. It aims to demonstrate the skil
 
 ## Concept
 - [HTML - elements of a web page](https://intranet.alxswe.com/concepts/543)
-- <img src='https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/5d9e347964a9cc0e3e24.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230710%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230710T194546Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=24b90f7d5414c4ca3ab58e0520881257d02d32efe99ae291f4453b25c3669035' alt="Yeah! I have learned HTML">
+- <img src='https://github.com/JO-YE/alx-frontend/assets/111038087/9edece3d-e292-4a16-95c8-d7ae57bb7cd8' alt="Yeah! I have learned HTML">
 
 ## Resources
 - [HTML 5.2](https://html.spec.whatwg.org/multipage/)
