@@ -30,6 +30,22 @@ Copy the content of 0-index.html into 1-index.html
 Create the head and body sections
 	- inside the html tag, create the head and body tags (empty) in this order
 
+- [The head - meta charset, viewport, title, description, favicons](./2-index.html)
+
+- [Simple header, main, footer](./3-index.html)
+
+- [Aside](./article.html)
+
+- [Section](5-index.html)
+
+- [Work, News, Testimonial articles](6-index.html)
+
+
+
+
+
+
+
 
 
 
