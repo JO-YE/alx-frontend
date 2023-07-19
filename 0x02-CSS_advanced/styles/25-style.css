@@ -255,7 +255,7 @@ a:active {
 
 .button {
   display: var(--button-display);
-  padding: var(--buttom-padding);
+  padding: var(--button-padding);
   border: var(--button-border);
   font-size: var(--button-font-size);
   color: var(--button-color);
