@@ -1,0 +1,20 @@
+/*setting the foreground color for some element*/
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  color: #161616;
+}
+
+a {
+  color: #161616;
+}
+
+.card-category {
+  color: #d73953;
+}
+
+.section-tagline {
+  color: #d73953;
+}
