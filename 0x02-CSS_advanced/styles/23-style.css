@@ -1,6 +1,6 @@
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 /*# sourceMappingURL=normalize.min.css.map */
-/* Adding a dark theme to sections */
+/* fixing issuesfor dark theme */
 :root {
   --color-primary: #d73953;
   --color-black: #090909;
@@ -42,8 +42,8 @@
 }
 
 *,
-              *:before,
-              *:after /* before and after are used for adding other purposes like adding content before or after element*/ {
+                *:before,
+                *:after /* before and after are used for adding other purposes like adding content before or after element*/ {
   /*box-sizing controls how the width and height of an element are calculated including padding and border*/
   box-sizing: border-box;
 }
@@ -205,6 +205,18 @@ ul.row {
 
 .footer ul {
   text-align: right;
+}
+
+.footer-address {
+  color: var(--text-color);
+}
+
+.social-link {
+  display: block;
+}
+
+.social-link > svg {
+  color: var(--text-color);
 }
 
 .footer {
