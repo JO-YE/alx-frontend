@@ -4,7 +4,7 @@
 
 ## Concepts
 - [CSS fundamentals](https://intranet.alxswe.com/concepts/544)
-- [CSS advanced]((https://intranet.alxswe.com/concepts/545))
+- [CSS advanced](https://intranet.alxswe.com/concepts/545)
 
 ## Resources
 - [CSS Reference - A free visual guide to CSS](console.cloud.google.com)
