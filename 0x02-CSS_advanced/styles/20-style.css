@@ -185,9 +185,9 @@ ul.row {
 
 .row::after {
   /* Creating a new row after each instance of the class "row" */
-  content: none;
+  content: "";
   display: table;
-  float: none;
+  clear: both;
 }
 
 .footer-copyright {
