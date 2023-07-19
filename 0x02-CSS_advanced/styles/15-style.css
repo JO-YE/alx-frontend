@@ -27,7 +27,9 @@
   --section-title-color: var(--color-black);
 }
 
-* {
+*,
+*:before,
+*:after /* before and after are used for adding other purposes like adding content before or after element*/ {
   /*box-sizing controls how the width and height of an element are calculated including padding and border*/
   box-sizing: border-box;
 }
