@@ -1,8 +1,10 @@
 # 0x02. Advanced CSS
+![readme](https://github.com/JO-YE/alx-frontend/assets/111038087/57d12f5b-8737-41ee-87d0-db6da3ce5e76)
+
 
 ## Concepts
 - [CSS fundamentals](https://intranet.alxswe.com/concepts/544)
-- [CSS advanced](ntranet.alxswe.com/concepts/545)
+- [CSS advanced]((https://intranet.alxswe.com/concepts/545))
 
 ## Resources
 - [CSS Reference - A free visual guide to CSS](console.cloud.google.com)
