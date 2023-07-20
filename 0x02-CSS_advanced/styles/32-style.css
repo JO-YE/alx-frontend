@@ -295,7 +295,7 @@ a:active {
   background-color: var(--button-hover-background);
   /* Animating the button background */
   transition-duration: var(--transition-duration);
-  transition-property: color background-color;
+  transition-property: color, background-color;
 }
 
 .card-category {
@@ -524,12 +524,12 @@ ul.row {
 /* Adding transformations on the card work */
 .card-work:hover .card-image {
   transform: scale(1.2);
+  /* Add transitions on the card works */
+  transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
 
 .card-work:hover .card-outer {
   transform: scale(0.95);
-  /* Add transitions on the card works */
-  transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
 
 .section-hero {
