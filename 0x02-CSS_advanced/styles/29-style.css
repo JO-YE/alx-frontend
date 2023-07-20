@@ -222,6 +222,10 @@ body {
   min-height: var(--line-height-base);
 }
 
+.visually-hidden {
+  display: none;
+}
+
 [data-section-theme="dark"] {
   --text-color: var(--color-white);
   --section-title-color: var(--color-white);
