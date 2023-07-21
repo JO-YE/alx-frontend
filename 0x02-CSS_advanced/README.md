@@ -20,5 +20,5 @@
 -
 
 ## **End goal of the project**
+![endgoal](https://github.com/JO-YE/alx-frontend/assets/111038087/6004983c-4ccb-49d2-a1fa-d987ded5ddb5)
 
-![endgoal](endgoal.png)
