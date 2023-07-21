@@ -26,3 +26,5 @@ CSS units that are used to make elements flexible
 ## **Wireframe of the Techium project - mobile version**
 
 ![img](https://github.com/JO-YE/alx-frontend/assets/111038087/9586cee9-1806-4f63-87d4-50ac56095dce)
+
+**We will put media queries at the end of each section to facilitate the reading but for performance reasons, the best practice is to unifiy all similar breakpoints at the end of the CSS file.**
