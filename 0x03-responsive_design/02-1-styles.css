@@ -440,9 +440,10 @@ ul.row {
   width: 100%;
 }
 
-@media screen and (max-with: 767px) {
+@media screen and (max-width: 767px) {
   .navbar-menu {
-    display: none; /* temporary hidden the navbar menu */
+    /* temporary hidden the navbar menu */
+    display: none;
   }
 }
 /* Header
