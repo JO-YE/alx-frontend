@@ -17,8 +17,7 @@
 - [CSS Selectors weight](https://www.standardista.com/cgi-sys/suspendedpage.cgi)
 - [CSS specificity calculator](https://www.codecaptain.io/tools/css-specificity-calculator)
 - [Play with CSS selector](https://frontend30.com/css-selectors-cheatsheet/)
--
 
 ## **End goal of the project**
-![endgoal](https://github.com/JO-YE/alx-frontend/assets/111038087/6004983c-4ccb-49d2-a1fa-d987ded5ddb5)
 
+![endgoal](https://github.com/JO-YE/alx-frontend/assets/111038087/6004983c-4ccb-49d2-a1fa-d987ded5ddb5)
