@@ -373,8 +373,8 @@ ul.row {
 
 @media screen and (max-width: 767px) {
   :root {
-    var(--section-padding): 5rem 1.5rem;
-    var(--section-body-padding): 2rem 0 0;
+    --section-padding: 5rem 1.5rem;
+    --section-body-padding: 2rem 0 0;
   }
 
   ul.row .row {
