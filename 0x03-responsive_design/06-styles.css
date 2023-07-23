@@ -484,7 +484,7 @@ ul.row {
   padding: 2.5rem;
   position: relative;
   user-select: none;
-  display: none;
+  display: none; /* to hide the menu icon when we are on desktop mode */
 }
 
 .header .menu-icon .navicon {
@@ -524,11 +524,11 @@ ul.row {
   display: none;
 }
 
-.menu-btn:checked .navbar-menu {
+.menu-btn:checked ~ .navbar-menu {
   display: block;
 }
 
-.menu-btn:checked .navbar-menu .nav {
+.menu-btn:checked ~ .navbar-menu .nav {
   max-height: 100%;
   overflow: inherit;
 }
@@ -548,6 +548,25 @@ ul.row {
 .header .menu-btn:checked + .menu-icon .navicon::before,
 .header .menu-btn:checked + .menu-icon .navicon::after {
   top: 0;
+}
+
+@media screen and (max-width: 767px) {
+  :root {
+    --header-padding: 2rem 0 0;
+  }
+
+  .header {
+    background: var(--color-black);
+  }
+
+  .header-container {
+    flex-wrap: wrap;
+    padding: 0 1.5rem;
+  }
+
+  .header .menu-icon {
+    display: block;
+  }
 }
 
 @media screen and (max-width: 480px) {
