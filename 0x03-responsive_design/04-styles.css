@@ -398,10 +398,15 @@ ul.row {
 :root {
   --nav-item-margin: 0;
 }
+
 .navbar-menu {
+  flex: 1;
+}
+
+.header .nav {
   flex-direction: column; /* the element of the menu will be below eachother */
   overflow: hidden;
-  max-height: 0;
+  max-height: 0; /* display cant be animated, so we use height that can be animated */
   transition: max-height 0.2s ease-out;
 }
 .nav {
