@@ -730,7 +730,7 @@ ul.row {
   min-height: 35vh;
 }
 
-.section-hero .article-page {
+.article-page .section-hero {
   /* Fixing the top header background */
   margin-top: -8.5rem;
   padding-top: 5rem;
